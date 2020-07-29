@@ -1,0 +1,3 @@
+# Spiking-Neural-Networks
+Spiking neural networks (SNNs) are artificial neural networks that more closely mimic natural neural networks.[1] In addition to neuronal and synaptic state, SNNs incorporate the concept of time into their operating model. The idea is that neurons in the SNN do not fire at each propagation cycle (as it happens with typical multi-layer perceptron networks), but rather fire only when a membrane potential – an intrinsic quality of the neuron related to its membrane electrical charge – reaches a specific value. 
+Here we build different Spiking Neural Networks using the Brian platform .
